@@ -4,19 +4,19 @@ export default {
   theme: {
     extend: {
       colors: {
-        p1: "#2EF2FF",
-        p2: "#3C52D9",
-        p3: "#C8EA80",
-        p4: "#EAEDFF",
-        p5: "#C4CBF5",
-        s1: "#080D27",
-        s2: "#0C1838",
-        s3: "#334679",
-        s4: "#1959AD",
-        s5: "#263466",
+        p1: "#0284c7",
+        p2: "#0369a1",
+        p3: "#0ea5e9",
+        p4: "#0f172a",
+        p5: "#334155",
+        s1: "#87CEEB",
+        s2: "#bae6fd",
+        s3: "#7dd3fc",
+        s4: "#38bdf8",
+        s5: "#0ea5e9",
         black: {
           DEFAULT: "#000000",
-          100: "#05091D",
+          100: "#bae6fd",
         },
       },
       boxShadow: {
