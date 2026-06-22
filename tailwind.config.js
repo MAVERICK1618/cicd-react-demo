@@ -9,7 +9,7 @@ export default {
         p3: "#0ea5e9",
         p4: "#0f172a",
         p5: "#334155",
-        s1: "#87CEEB",
+        s1: "#ffffff",
         s2: "#bae6fd",
         s3: "#7dd3fc",
         s4: "#38bdf8",
